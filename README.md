@@ -38,7 +38,7 @@ _Medical-image segmentation_
 * __Lesson #5 | Practical Session (May 2, 2019 | 13:30-15:30 | U2-05)__ <br>
 _Introduction to Matlab: (basic commands; scripts; functions)_ <br>
 _Working with medical images (the dicom and NIfTI format; extracting information from the header file; loading and visualizing images; colormaps; working with ROIs)_ <br>
-_Automatic and semi-automatic segmentation_ <br><br>
+_Automatic and semi-automatic segmentation_
 
 <br>
 
