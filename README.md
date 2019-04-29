@@ -29,7 +29,9 @@ _MonteCarlo Simulations_
 <br>
 
 * __Lesson #4 (April 30, 2019 | 10:30-12:30 | U2-05)__ <br>
-__
+_Standardized Uptake Value_ <br>
+_Artifacts and their correction_ <br>
+_Medical-image segmentation_ <br><br>
 
 <br>
 
