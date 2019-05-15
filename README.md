@@ -43,22 +43,27 @@ _Automatic and semi-automatic segmentation_
 <br>
 
 * __Lesson #6 (May 7, 2019 | 10:30-12:30 | U2-05)__ <br>
-_tba_
+_Predictive models in medicine_
 
 <br>
 
 * __Lesson #7 (May 9, 2019 | 13:30-15:30 | U2-05)__ <br>
-_tba_
+_Statistical Parametric Mapping_
+_Molecular Imaging_
 
 <br>
 
 * __Lesson #8 (May 14, 2019 | 10:30-12:30 | U2-05)__ <br>
-_tba_
+_Radiotherapy_
+_Total Body Irradiation_
+_Brachytherapy_
 
 <br>
 
 * __Lesson #9 (May 16, 2019 | 13:30-15:30 | U2-05)__ <br>
-_tba_
+_Radiotherapy and Radiosurgery_
+_Tomotherapy_
+_Intensity-Modulated Radiation Therapy_
 
 <br>
 
@@ -67,7 +72,7 @@ _tba_
 
 
 ## Prerequisites | Software | Tools
-During the course (practical sessions) and the implementation of the final projects, we will make use of [Matlab](https://it.mathworks.com/) (The MathWorks). Because of this, students are required to download and install Matlab on their laptops.
+During the course (practical sessions), we will make use of [Matlab](https://it.mathworks.com/) (The MathWorks). Because of this, students are required to download and install Matlab on their laptops.
 
 Another required software package is Statistical Parametric Mapping, which is freely available for download on the [dedicated webpage](https://www.fil.ion.ucl.ac.uk/spm/) of the Wellcome Centre for Human Neuroimaging. Optional tool: [VBM](http://www.neuro.uni-jena.de/vbm/).
 
