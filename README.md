@@ -48,21 +48,21 @@ _Predictive models in medicine_
 <br>
 
 * __Lesson #7 (May 9, 2019 | 13:30-15:30 | U2-05)__ <br>
-_Statistical Parametric Mapping_
+_Statistical Parametric Mapping_ <br>
 _Molecular Imaging_
 
 <br>
 
 * __Lesson #8 (May 14, 2019 | 10:30-12:30 | U2-05)__ <br>
-_Radiotherapy_
-_Total Body Irradiation_
+_Radiotherapy_ <br>
+_Total Body Irradiation_ <br>
 _Brachytherapy_
 
 <br>
 
 * __Lesson #9 (May 16, 2019 | 13:30-15:30 | U2-05)__ <br>
-_Radiotherapy and Radiosurgery_
-_Tomotherapy_
+_Radiotherapy and Radiosurgery_ <br>
+_Tomotherapy_ <br>
 _Intensity-Modulated Radiation Therapy_
 
 <br>
