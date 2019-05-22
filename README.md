@@ -42,7 +42,7 @@ _Automatic and semi-automatic segmentation_
 
 <br>
 
-* __Lesson #6 (May 7, 2019 | 10:30-12:30 | U2-05)__ <!---[[slides]()]--> <br>
+* __Lesson #6 (May 7, 2019 | 10:30-12:30 | U2-05)__ [[slides](https://github.com/christiansalvatore/applicazioni-fisica-medicina/blob/master/slides/L6-predictivemodels.pdf)] <br>
 _Predictive models in medicine_
 
 <br>
