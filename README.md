@@ -23,12 +23,12 @@ _Positron Emission Tomography_
 
 <br>
 
-* __Lesson #3 (April 16, 2019 | 10:30-12:30 | U2-05)__ [[slides a](https://github.com/christiansalvatore/applicazioni-fisica-medicina/blob/master/slides/L3__MonteCarloScannerSimulations.pdf) | [slides b](https://github.com/christiansalvatore/applicazioni-fisica-medicina/blob/master/slides/L4__MCSoftwareStudies.pdf)] <br>
+* __Lesson #3 (April 16, 2019 | 10:30-12:30 | U2-05)__ [[slides a](https://github.com/christiansalvatore/applicazioni-fisica-medicina/blob/master/slides/L3a__MonteCarloScannerSimulations.pdf) | [slides b](https://github.com/christiansalvatore/applicazioni-fisica-medicina/blob/master/slides/L3b__MCSoftwareStudies.pdf)] <br>
 _MonteCarlo Simulations_
 
 <br>
 
-* __Lesson #4 (April 30, 2019 | 10:30-12:30 | U2-05)__ <br>
+* __Lesson #4 (April 30, 2019 | 10:30-12:30 | U2-05)__ [[slides](https://github.com/christiansalvatore/applicazioni-fisica-medicina/blob/master/slides/L4-image-segmentation.pdf)] <br>
 _Standardized Uptake Value_ <br>
 _Artifacts and their correction_ <br>
 _Medical-image segmentation_
@@ -47,7 +47,7 @@ _Predictive models in medicine_
 
 <br>
 
-* __Lesson #7 (May 9, 2019 | 13:30-15:30 | U2-05)__ <br>
+* __Lesson #7 (May 9, 2019 | 13:30-15:30 | U2-05)__ [[slides a](https://github.com/christiansalvatore/applicazioni-fisica-medicina/blob/master/slides/L7a__StatisticalParametricMapping.pdf) | [slides b](https://github.com/christiansalvatore/applicazioni-fisica-medicina/blob/master/slides/L7b__MolecularImaging.pdf)] <br>
 _Statistical Parametric Mapping_ <br>
 _Molecular Imaging_
 
@@ -68,7 +68,7 @@ _Intensity-Modulated Radiation Therapy_
 <br>
 
 * __Lesson #10 (May 21, 2019 | 10:30-12:30 | U2-05)__ <br>
-_tba_
+_Radiomics and radiogenomics_
 
 
 ## Prerequisites | Software | Tools
@@ -77,6 +77,10 @@ During the course (practical sessions), we will make use of [Matlab](https://it.
 Another required software package is Statistical Parametric Mapping, which is freely available for download on the [dedicated webpage](https://www.fil.ion.ucl.ac.uk/spm/) of the Wellcome Centre for Human Neuroimaging. Optional tool: [VBM](http://www.neuro.uni-jena.de/vbm/).
 
 A useful tool for neuroimage visualization is MRIcron, which is freely available for download on this [webpage](https://www.nitrc.org/projects/mricron).
+
+
+## Exam modality
+The exam session consists in an oral examination with questions regarding the theoretical lessons of the course and a presentation about a scientific paper.
 
 
 ## Comments and suggestions
