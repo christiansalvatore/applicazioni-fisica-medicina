@@ -60,7 +60,7 @@ _Brachytherapy_
 
 <br>
 
-* __Lesson #9 (May 16, 2019 | 13:30-15:30 | U2-05)__ [[slides a]() | [slides b]() | [slides c]()] <br>
+* __Lesson #9 (May 16, 2019 | 13:30-15:30 | U2-05)__ <> ([[slides a]() | [slides b]() | [slides c]()]) <br>
 _Radiotherapy and Radiosurgery_ <br>
 _Tomotherapy_ <br>
 _Intensity-Modulated Radiation Therapy_
