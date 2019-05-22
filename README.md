@@ -35,14 +35,14 @@ _Medical-image segmentation_
 
 <br>
 
-* __Lesson #5 | Practical Session (May 2, 2019 | 13:30-15:30 | U2-05)__ [[data](https://www.dropbox.com/s/6r8et6x0ps9uc14/data.zip?dl=0)] [[third-party libraries](https://github.com/christiansalvatore/applicazioni-fisica-medicina/tree/master/thirdparty-libraries)] <br>
+* __Lesson #5 | Practical Session (May 2, 2019 | 13:30-15:30 | U2-05)__ [[data](https://www.dropbox.com/s/6r8et6x0ps9uc14/data.zip?dl=0)] [code]() [[third-party libraries](https://github.com/christiansalvatore/applicazioni-fisica-medicina/tree/master/thirdparty-libraries)] <br>
 _Introduction to [Matlab](https://it.mathworks.com/): (basic commands; scripts; functions)_ <br>
 _Working with medical images (the dicom and NIfTI format; extracting information from the header file; loading and visualizing images; colormaps; working with ROIs)_ <br>
 _Automatic and semi-automatic segmentation_
 
 <br>
 
-* __Lesson #6 (May 7, 2019 | 10:30-12:30 | U2-05)__ <br>
+* __Lesson #6 (May 7, 2019 | 10:30-12:30 | U2-05)__ [[slides]()] <br>
 _Predictive models in medicine_
 
 <br>
@@ -53,21 +53,21 @@ _Molecular Imaging_
 
 <br>
 
-* __Lesson #8 (May 14, 2019 | 10:30-12:30 | U2-05)__ <br>
+* __Lesson #8 (May 14, 2019 | 10:30-12:30 | U2-05)__ [[slides a]() | [slides b]()] <br>
 _Radiotherapy_ <br>
 _Total Body Irradiation_ <br>
 _Brachytherapy_
 
 <br>
 
-* __Lesson #9 (May 16, 2019 | 13:30-15:30 | U2-05)__ <br>
+* __Lesson #9 (May 16, 2019 | 13:30-15:30 | U2-05)__ [[slides a]() | [slides b]() | [slides c]()] <br>
 _Radiotherapy and Radiosurgery_ <br>
 _Tomotherapy_ <br>
 _Intensity-Modulated Radiation Therapy_
 
 <br>
 
-* __Lesson #10 (May 21, 2019 | 10:30-12:30 | U2-05)__ <br>
+* __Lesson #10 (May 21, 2019 | 10:30-12:30 | U2-05)__ [[slides]()] <br>
 _Radiomics and radiogenomics_
 
 
