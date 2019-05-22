@@ -35,7 +35,7 @@ _Medical-image segmentation_
 
 <br>
 
-* __Lesson #5 | Practical Session (May 2, 2019 | 13:30-15:30 | U2-05)__ [[data](https://www.dropbox.com/s/6r8et6x0ps9uc14/data.zip?dl=0)] [code](https://github.com/christiansalvatore/applicazioni-fisica-medicina/tree/master/practicalsession) [[third-party libraries](https://github.com/christiansalvatore/applicazioni-fisica-medicina/tree/master/thirdparty-libraries)] <br>
+* __Lesson #5 | Practical Session (May 2, 2019 | 13:30-15:30 | U2-05)__ [[data](https://www.dropbox.com/s/6r8et6x0ps9uc14/data.zip?dl=0)] [[code](https://github.com/christiansalvatore/applicazioni-fisica-medicina/tree/master/practicalsession)] [[third-party libraries](https://github.com/christiansalvatore/applicazioni-fisica-medicina/tree/master/thirdparty-libraries)] <br>
 _Introduction to [Matlab](https://it.mathworks.com/): (basic commands; scripts; functions)_ <br>
 _Working with medical images (the dicom and NIfTI format; extracting information from the header file; loading and visualizing images; colormaps; working with ROIs)_ <br>
 _Automatic and semi-automatic segmentation_
