@@ -53,7 +53,7 @@ _Molecular Imaging_
 
 <br>
 
-* __Lesson #8 (May 14, 2019 | 10:30-12:30 | U2-05)__ <!---[[slides a]() | [slides b]()]--> <br>
+* __Lesson #8 (May 14, 2019 | 10:30-12:30 | U2-05)__ [[slides a](https://github.com/christiansalvatore/applicazioni-fisica-medicina/blob/master/slides/L8a-totalbodyirradiation.pdf) | [slides b](https://github.com/christiansalvatore/applicazioni-fisica-medicina/blob/master/slides/L8b-brachytherapy.pdf)] <br>
 _Radiotherapy_ <br>
 _Total Body Irradiation_ <br>
 _Brachytherapy_
