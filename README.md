@@ -67,7 +67,7 @@ _Intensity-Modulated Radiation Therapy_
 
 <br>
 
-* __Lesson #10 (May 21, 2019 | 10:30-12:30 | U2-05)__ <!---[[slides]()]--> <br>
+* __Lesson #10 (May 21, 2019 | 10:30-12:30 | U2-05)__ [[slides](https://github.com/christiansalvatore/applicazioni-fisica-medicina/blob/master/slides/L10-radiomics-radiogenomics.pdf)] <br>
 _Radiomics and radiogenomics_
 
 
