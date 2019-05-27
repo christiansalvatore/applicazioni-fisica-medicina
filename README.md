@@ -60,7 +60,7 @@ _Brachytherapy_
 
 <br>
 
-* __Lesson #9 (May 16, 2019 | 13:30-15:30 | U2-05)__ <!---[[slides a]() | [slides b]() | [slides c]()]--> <br>
+* __Lesson #9 (May 16, 2019 | 13:30-15:30 | U2-05)__ [[slides a](https://github.com/christiansalvatore/applicazioni-fisica-medicina/blob/master/slides/L9a-radiotheraphy-radiosurgery.pdf) | [slides b](https://github.com/christiansalvatore/applicazioni-fisica-medicina/blob/master/slides/L9b-IMRT.pdf) | [slides c](https://github.com/christiansalvatore/applicazioni-fisica-medicina/blob/master/slides/L9c-tomotherapy.pdf)] <br>
 _Radiotherapy and Radiosurgery_ <br>
 _Tomotherapy_ <br>
 _Intensity-Modulated Radiation Therapy_
